@@ -1,16 +1,7 @@
-## Video Streaming with Flask Example
+## Video Streaming thermal Camera
 
-### Website
-http://www.chioka.in
+
 
 ### Description
-Modified to support streaming out with webcams, and not just raw JPEGs.
-
-### Credits
-Most of the code credits to Miguel Grinberg, except that I made a small tweak. Thanks!
-http://blog.miguelgrinberg.com/post/video-streaming-with-flask
-
-### Usage
-1. Install Python dependencies: cv2, flask. (wish that pip install works like a charm)
-2. Run "python main.py".
-3. Navigate the browser to the local webpage.
+Streaming of thermal camera Flire Lepton 3.5. More info in https://groupgets.com/manufacturers/flir/products/lepton-3-5
+This code was made based on https://github.com/Kheirlb/purethermal1-uvc-capture/tree/master/ui_software/Parabilis_Thermal
